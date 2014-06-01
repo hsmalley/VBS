@@ -1,4 +1,3 @@
-VBS
-===
+# VBS SCRIPTS
 
-Just some VBS scripts
+Just a few VBS files I've created or modified over the years
